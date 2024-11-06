@@ -1,6 +1,6 @@
 # GFlowNet-Molecule-Generator
 
-![Molecule Generation](logo.png)
+![Molecule Generation](./logo.png)
 
 ## Overview
 
@@ -30,7 +30,7 @@ Make sure you have Python 3 installed. The primary libraries required are **PyTo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/GFlowNet-Molecule-Generator.git
+   git clone https://github.com/mcpeixoto/GFlowNet-Molecule-Generator.git
    cd GFlowNet-Molecule-Generator
    ```
 
