@@ -1,6 +1,6 @@
 # GFlowNet-Molecule-Generator
 
-![Molecule Generation](https://miro.medium.com/max/1400/1*QG2SyhBbLhZ5Vh1KWJxvVQ.png)
+![Molecule Generation](logo.png)
 
 ## Overview
 
@@ -47,7 +47,7 @@ Make sure you have Python 3 installed. The primary libraries required are **PyTo
 1. Run the training script:
 
    ```bash
-   python gflownet_molecule_generation.py
+   python main.py
    ```
 
    This script trains the GFlowNet model to generate molecules with high QED scores, a metric for drug-likeness.
@@ -89,7 +89,7 @@ After training, the model generates molecules like these (visualized using RDKit
 
 ## Repository Structure
 
-- `gflownet_molecule_generation.py`: Main script for training and sampling molecules.
+- `main.py`: Main script for training and sampling molecules.
 - `requirements.txt`: Lists the required dependencies for the project.
 
 ---
