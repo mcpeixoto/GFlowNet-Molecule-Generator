@@ -1,6 +1,9 @@
 # GFlowNet-Molecule-Generator
 
-![Molecule Generation](./logo.png)
+
+<p align="center">
+   <img src="./logo.png" alt="VCA" width="500">
+</p>
 
 ## Overview
 
